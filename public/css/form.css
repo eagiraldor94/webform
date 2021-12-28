@@ -1,0 +1,23 @@
+.content{
+	padding-top: 5% !important;
+}
+.row{
+	margin-top: 10px;
+}
+#phone.filled{
+	padding-left: 6%;
+}
+.wm-container{
+	position: relative;
+}
+#watermark{
+    position: absolute;
+    top: 0;
+    left: 1;
+    bottom: 0;
+    z-index: 10;
+    color: #333;
+    opacity: 0.5;
+    margin-top: 5px;
+    margin-left: 5px;
+}
